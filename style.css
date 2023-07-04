@@ -1,0 +1,125 @@
+section.main.css-1v3fvcr.egzxvld1{
+    
+	background-color: #5a607c;
+	font-family: 'Itim', cursive;
+	color: black;
+
+}
+section.css-1lcbmhc.e1fqkh3o0{
+    background-color: #12e4e4;
+}
+section.css-vk3wp9.e1akgbir11{
+	background-color: #9cabee;
+}
+/*titre*/
+
+div.css-v37k9u.e16nr0p30{
+	background-color: aliceblue;
+	
+	/*border: solid 2px;
+	border-color: #000;*/
+
+}
+
+h2#classification-d-images{
+	font-family: 'Itim', cursive;
+	color: black;
+
+}
+
+
+
+/*contenaire */
+div.css-1o4i7as.exg6vvm15{
+	border-radius: 10px;
+}
+/*select file*/
+section.css-x8wxsk.exg6vvm0{
+	border:2px solid #2D9480;
+	
+
+	padding: 10px;
+	
+	color: #696B6B;
+}
+
+/*label choisir une image*/
+label.css-16huue1.effi0qh0{
+	color: #000;
+	font-size: 15px;
+}
+
+button.css-1q8dd3e.edgvbvh1{
+	color: #dd1111;
+	font-size: 18px;
+	background-color: #2D9480;
+	/*object-position: center;
+	width: 100%;
+	height: 30px;*/
+}
+
+
+/*contenaire 2*/
+div.css-1n76uvr.e1tzin5v4{
+	background-color: aliceblue;
+	border: solid 3px;
+	border-radius: 10px;
+	
+}
+div.css-1kyxreq.etr89bj0{
+	display: inline;
+	width: 300px;
+}
+
+/*css-1v0mbdj etr89bj1*/
+/*img{
+	width: 500px;
+	height: 425px;
+	border: solid 2px;
+	border-radius: 10px;
+	border-color: #000000;
+}*/
+
+/*
+	image malaria
+*/
+div.css-1v0mbdj.etr89bj1{
+	display: inline;
+	width: 350px;
+	height: 120px;
+}
+
+/*text side bar*/
+div.element-container.css-1p1nwyz.e1tzin5v1{
+	
+	background-color: #b3bce7;
+}
+
+h2{
+	color: #000;
+}
+
+/*
+css-1pd56a0 e1tzin5v4
+element-container css-1p1nwyz e1tzin5v1
+	image bant
+*/
+div.css-1v0mbdj.etr89bj1{
+	display: inline;
+	width: 200px;
+	height: 0px;
+
+}
+div.element-container.css-1hynsf2.e1tzin5v1{
+	display: block;
+
+}
+
+div.css-o1jpvw.e19lei0e1{
+	display: inline;
+	width: 200px;
+	height: 180px;
+}
+
+
+/*element-container css-1p1nwyz e1tzin5v1
